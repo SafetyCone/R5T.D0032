@@ -1,0 +1,4 @@
+R5T.D0032.Base - Base library for the IUserNameProvider service. NOT-async, stringly-typed.
+
+Goals
+
