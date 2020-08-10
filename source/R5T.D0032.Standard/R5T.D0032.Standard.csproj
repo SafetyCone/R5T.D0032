@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\R5T.D0032.Default\R5T.D0032.Default.csproj" />
+  </ItemGroup>
+
 </Project>
