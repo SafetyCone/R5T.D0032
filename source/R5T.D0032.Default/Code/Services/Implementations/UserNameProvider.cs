@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.D0032.Default
-{
-    public class UserNameProvider : IUserNameProvider
+{[ServiceImplementationMarker]
+    public class UserNameProvider : IUserNameProvider,IServiceImplementation
     {
         public string GetUserName()
         {
